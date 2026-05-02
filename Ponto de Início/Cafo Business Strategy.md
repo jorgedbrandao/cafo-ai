@@ -1,119 +1,89 @@
 # Cafo Frame — Brand Strategy
 
-> *Módulo do Cafo Studio | Go-to-Market: Landing Pages para Cafeterias*
+> *Módulo do Cafo Studio | Go-to-Market: Sites de Baixo Custo para Cafeterias*
 
 ---
 
 ## 1. Contexto & Propósito
 
-O Cafo Frame é o módulo de presença digital do Cafo Studio, desenvolvido especificamente para o mercado de cafeterias. Em um segmento onde o café deixou de ser apenas uma bebida e se tornou uma experiência, a maioria dos estabelecimentos ainda não tem uma presença online à altura do que oferecem nas xícaras.
+O Cafo Frame é o módulo de presença digital do Cafo Studio, desenvolvido especificamente para cafeterias independentes que precisam de um site profissional **sem pagar preço de agência**.
 
-O Cafo Frame resolve isso — com landing pages que capuram a essência de cada café, coletam leads qualificados e geram dados reais sobre o comportamento do cliente.
+Hoje o dono de cafeteria tem dois caminhos ruins: ou paga R$ 3.000–R$ 8.000 numa agência que não entende do negócio, ou tenta montar sozinho no Wix/Linktree e o resultado fica amador. O Cafo Frame resolve isso com uma terceira via: **site pronto, especializado em cafeteria, entregue em 7 dias, por R$ 497 — pagamento único.**
 
 ---
 
 ## 2. Visão
 
-> **Ser a plataforma que transforma cada cafeteria em uma marca digital viva — onde toda xícara vendida começa antes mesmo da porta se abrir.**
+> **Ser o jeito mais barato e rápido de uma cafeteria ter um site profissional que funciona.**
 
-Acreditamos que toda cafeteria, independente do tamanho, merece uma presença digital que seja tão cuidadosa quanto o processo de extração de um bom espresso. O Cafo Frame existe para que nenhuma boa história fique no esquecimento por falta de visibilidade.
+Toda cafeteria, do quiosque ao café de bairro, merece presença online à altura do que serve no balcão — pagando uma vez, sem mensalidade pesando no caixa.
 
 ---
 
 ## 3. Missão
 
-> **Empoderar baristas e donos de cafeterias com ferramentas digitais simples e poderosas, para que possam construir comunidades, entender seus clientes e crescer com intenção.**
+> **Tirar o site profissional da lista de "luxo de cafeteria grande" e colocar na lista de "ferramenta básica de qualquer barista".**
 
-Não estamos aqui apenas para criar sites bonitos. Estamos aqui para dar aos apaixonados por café uma vantagem real no mundo digital — com landing pages que convertem, dados que ensinam e conexões que fidelizam.
+Não vendemos sites bonitos. Vendemos a forma mais acessível de uma cafeteria pequena ter o que antes só rede grande tinha: site próprio, cardápio digital, captação de cliente e domínio com a sua marca.
 
 ---
 
 ## 4. Valores
 
-### ☕ Artesanato Digital
-Assim como um bom café exige atenção a cada detalhe do processo, cada landing page que criamos é cuidadosamente pensada. Nada é genérico. Nada é automático demais. Cada entrega tem intenção.
+### 💰 Preço Honesto
+Cobramos pouco e entregamos rápido. Não temos taxa escondida, não temos contrato longo, não fazemos upsell agressivo. O barista sabe exatamente quanto vai pagar e o que vai receber.
+
+### ⚡ Velocidade Verticalizada
+Como só fazemos site de cafeteria, temos templates, fotos e copy prontos pro setor. Isso reduz o custo de produção — e o desconto vai direto pro preço final.
 
 ### 🌱 Crescimento com Raiz
-Acreditamos em crescimento sustentável. Não apenas em métricas vazias, mas em conexões reais entre cafeterias e suas comunidades. Leads que se tornam clientes fiéis. Clientes que se tornam fãs.
-
-### 🔍 Dados com Propósito
-Coletamos comportamentos, mapeamos interesses, analisamos padrões — não para encher dashboards, mas para entregar insights acionáveis que ajudam donos a tomarem decisões melhores.
+Foco em cafeteria pequena, independente, que está começando ou estagnada. Quem precisa do site mais do que quem já pode pagar uma agência.
 
 ### 🤝 Parceria Genuína
-Não somos uma ferramenta SaaS fria. Somos parceiros que entendem o cotidiano de quem acorda às 5h da manhã para abrir o café. Falamos a língua de quem vive o bar.
+Não somos SaaS frio. Falamos a língua de quem acorda às 5h pra abrir o café — e cobramos um preço que cabe nesse bolso.
 
-### 🧪 Experimentação Constante
-O mundo digital muda rápido. A cultura do café também evolui. Estamos sempre testando, iterando, aprendendo — e trazendo o melhor disso para nossos clientes.
-
----
-
-## 5. Personas
+### 🧪 Simplicidade Como Disciplina
+Toda feature que adicionamos sobe o preço pra todo mundo. Por isso, só entra no produto o que a maioria das cafeterias realmente usa.
 
 ---
 
-### Persona 1 — O Barista Empreendedor
+## 5. Persona Foco
+
+### Lucas — O Barista Empreendedor *(ICP atual)*
 
 **Nome:** Lucas, 28 anos
-**Perfil:** Barista há 6 anos, campeão regional de latte art, está abrindo seu primeiro café especializado num bairro emergente da cidade. Tem um Instagram impecável, mas não sabe como transformar seguidores em clientes recorrentes.
+**Perfil:** Barista há 6 anos, campeão regional de latte art, abrindo (ou recém-abriu) seu primeiro café especializado num bairro emergente. Instagram impecável, mas presença online fora do Insta é zero ou amadora.
 
 **Situação:**
-- Acabou de abrir (ou está para abrir) seu primeiro estabelecimento
-- Tem habilidade técnica e paixão pelo café de especialidade
-- Sente que o digital é importante mas não sabe por onde começar
-- Tem pouco tempo e menos ainda paciência para ferramentas complicadas
-- Quer algo que pareça profissional desde o dia 1
+- Acabou de abrir ou está abrindo o primeiro estabelecimento
+- Caixa apertado: evita assumir mais um custo fixo mensal
+- Já recebeu orçamento de agência (R$ 3k–R$ 8k) e achou inviável
+- Tentou Wix/Linktree e o resultado não condiz com o nível do café
+- Tem pouco tempo e zero paciência pra ferramenta complicada
 
 **Dores:**
-- "Tenho bastante gente no Instagram mas elas não aparecem no café"
-- "Não sei como coletar e-mails dos meus clientes"
-- "Criei um site no Wix mas ficou horrível e não atualizo há meses"
-- "Não tenho dinheiro para pagar uma agência"
+- *"Tenho gente no Instagram que não aparece no café"*
+- *"Orçamento de agência veio R$ 5 mil, sem condição"*
+- *"Criei no Wix e ficou cara de site genérico"*
+- *"Não quero mais um boleto recorrente todo mês"*
 
 **O que deseja:**
-- Uma presença online que reflita o cuidado que coloca no café
-- Uma forma simples de anunciar eventos, novos grãos, cursos
-- Captar clientes antes mesmo de abrir as portas
-- Entender quem é seu público e o que ele quer
+- Site profissional **agora**, sem esperar 2 meses
+- Pagar uma vez e resolver — sem mensalidade
+- Não precisar mexer em código nem em template
+- Algo que pareça feito pra cafeteria — não site genérico de PME
 
-**Relação com tecnologia:** Usa muito o celular, é ágil com apps, mas não tem paciência para configurações complexas. Quer clicar e resolver.
-
-**Frase que resume:** *"Meu café é incrível. Precisava que o digital fosse também."*
+**Frase que resume:** *"Meu café é incrível. Precisava que o digital fosse também — sem virar custo fixo."*
 
 ---
 
-### Persona 2 — O Dono de Cafeteria Estabelecido
-
-**Nome:** Renata, 42 anos
-**Perfil:** Tem um café há 8 anos em uma área nobre da cidade. Começou como hobby, virou negócio. Tem equipe, tem fluxo de caixa, mas sente que a concorrência está crescendo e ela está parada digitalmente.
-
-**Situação:**
-- Café com movimento bom, mas irregular
-- Já investiu em algumas ações de marketing sem resultados claros
-- Tem um site desatualizado que "funciona, mas não traz ninguém"
-- Quer entender melhor quem é o cliente que entra no café
-- Pensa em expandir e precisa de dados para tomar decisões
-
-**Dores:**
-- "Gastei com agência e não vi retorno nenhum"
-- "Não sei de onde vêm os meus clientes hoje"
-- "Quero fazer um programa de fidelidade mas não sei nem por onde começar"
-- "Preciso de mais movimento nas terças e quartas"
-
-**O que deseja:**
-- Uma presença digital que gere resultado real, mensurável
-- Relatórios simples de quem está visitando o site e o que está procurando
-- Uma ferramenta para capturar leads e se comunicar com eles
-- Algo que não exija contratar mais uma pessoa para gerir
-
-**Relação com tecnologia:** Usa bem o WhatsApp e redes sociais, mas prefere ferramentas que tenham suporte humano. Confia mais em quem entende de café do que em quem entende só de tecnologia.
-
-**Frase que resume:** *"Café bom eu sei fazer. Crescer digitalmente é onde preciso de ajuda."*
+> **Nota — Persona Fase 2:** o dono de cafeteria estabelecido (8+ anos, fluxo previsível, querendo dados/expansão) é um perfil legítimo, mas **não é o ICP do produto low-cost**. Esse perfil entra no roadmap quando lançarmos o tier superior do Cafo Frame com analytics e captação avançada. Até lá, não calibramos pitch nem marketing pra ele.
 
 ---
 
 ## 6. Tom de Voz
 
-O Cafo Frame fala como um barista experiente que também entende de negócios. Não é corporativo. Não é genérico. É próximo, direto e tem o vocabulário de quem viveu atrás de um balcão.
+O Cafo Frame fala como barista experiente que também entende de negócios. Direto, próximo, com vocabulário de quem viveu atrás do balcão. **E que fala de preço sem desconforto** — porque o preço é o nosso diferencial, não algo a esconder.
 
 ### Características principais
 
@@ -122,47 +92,44 @@ O Cafo Frame fala como um barista experiente que também entende de negócios. N
 | **Direto** | Sem rodeios. Vai direto ao ponto, como um espresso. |
 | **Próximo** | Trata o usuário como parceiro, não como cliente. |
 | **Especialista** | Conhece o universo do café — usa os termos certos. |
-| **Empático** | Sabe que o dia de um barista/dono é pesado. |
-| **Motivador** | Encoraja, não pressiona. Inspira, não intimida. |
+| **Empático** | Sabe que o dia de um barista/dono é pesado e o caixa é apertado. |
+| **Transparente com preço** | Mostra o número antes do cliente perguntar. |
 
 ### Exemplos de Tom
 
 **❌ Evitar:**
-> "Nossa solução de alta performance para estabelecimentos do segmento de food & beverage garante conversão otimizada de leads."
+> "Nossa solução de alta performance para estabelecimentos do segmento de food & beverage garante conversão otimizada."
 
 **✅ Usar:**
-> "Você cuida da extração. A gente cuida de transformar visitas em clientes que voltam."
+> "Site pronto pra sua cafeteria em 7 dias por R$ 497. Pagamento único. Sem mensalidade."
 
 ---
 
 **❌ Evitar:**
-> "Preencha o formulário para solicitar uma demonstração gratuita de nossa plataforma."
+> "Solicite uma demonstração gratuita de nossa plataforma."
 
 **✅ Usar:**
-> "Conta pra gente o seu café. A gente mostra como o Cafo Frame pode ajudar."
+> "Manda o nome do café e o cardápio. Em 48h te mando um protótipo — se gostar, sobe no ar em uma semana."
 
 ---
 
 **❌ Evitar:**
-> "Maximize o ROI do seu negócio com nossa tecnologia de ponta."
+> "Maximize o ROI do seu negócio."
 
 **✅ Usar:**
-> "Mais gente conhecendo seu café. Mais dados pra você entender quem são eles. Mais retorno de verdade."
+> "Por menos do que custa uma agência cobrar pra começar, seu site fica pronto inteiro — sem mensalidade depois."
 
 ---
 
 ### Vocabulário da Marca
 
-O Cafo Frame incorpora naturalmente o vocabulário do universo do café como metáforas e referências que criam identificação:
+Termos do café usados como metáfora natural — nunca forçado:
 
-- **Extração** → processo de captar o melhor de algo
-- **Blend** → combinação, combinação certa de elementos
-- **Terroir** → identidade única de cada lugar/marca
+- **Extração** → captar o melhor de algo
+- **Blend** → combinação certa de elementos
 - **Coado** → filtrado, essencial, sem excessos
-- **Bloom** → primeiro contato, aquecimento, despertar
-- **Single origin** → autenticidade, originalidade, unicidade
-
-*Uso cuidadoso: natural nas copys, nunca forçado.*
+- **Single origin** → autenticidade, originalidade
+- **Bloom** → primeiro contato, despertar
 
 ---
 
@@ -170,104 +137,126 @@ O Cafo Frame incorpora naturalmente o vocabulário do universo do café como met
 
 ### Posicionamento Central
 
-> **O Cafo Frame é a única plataforma de landing pages construída especificamente para cafeterias — que une estética artesanal, captura de leads e inteligência de comportamento em um só lugar.**
+> **O Cafo Frame é o site profissional mais barato e rápido para cafeterias — feito por quem só entende de cafeteria, por R$ 497 pagos uma única vez.**
 
-Não somos uma plataforma genérica de sites. Não somos uma ferramenta de marketing para qualquer negócio. Somos especialistas em café — e isso faz toda a diferença na forma como construímos, entregamos e evoluímos o produto.
+Não competimos com agência (são 10x mais caras e demoram meses). Não competimos com Wix/Linktree (são genéricas e ficam amadoras). Competimos no espaço vazio: **site especializado a preço acessível, pago uma vez só.**
 
 ---
 
 ### Onde nos posicionamos no mercado
 
 ```
-                    GENÉRICO
-                        │
-           Wix         │        Linktree
-        Squarespace    │        Carrd
+                     CARO
                        │
-SIMPLES ───────────────┼─────────────────── ROBUSTO
-                       │
-                       │    ★ CAFO FRAME
-                       │
-                    ESPECIALIZADO
+       Agência Web    │      Agência Especializada
+       (R$ 3k–8k)     │      em Cafeteria
+                      │
+GENÉRICO ─────────────┼───────────────── ESPECIALIZADO
+                      │
+       Wix / Linktree │   ★ CAFO FRAME
+       (grátis-baixo) │   (R$ 497 — único)
+                      │
+                    BARATO
 ```
 
-O Cafo Frame ocupa o quadrante único de **especializado + acessível**: poderoso o suficiente para gerar dados reais, simples o suficiente para um barista configurar sozinho.
+O Cafo Frame ocupa o quadrante vazio: **especializado + barato**. A ponte entre o "fiz sozinho e ficou ruim" e o "paguei agência e gastei demais".
 
 ---
 
 ### Diferenciais Competitivos
 
-**1. Especialização Vertical**
-Não tentamos servir a todos. Só servimos cafeterias. Isso significa templates que fazem sentido para café, integrações pensadas para o setor, e uma equipe que entende do negócio.
+**1. Preço de produto, não de projeto**
+Agência cobra R$ 3k–8k de projeto. Nós cobramos R$ 497 — pagamento único, parcelável. Sem mensalidade depois. O custo cabe no caixa de qualquer cafeteria operante.
 
-**2. Inteligência de Comportamento**
-Além de exibir informações, as landing pages do Cafo Frame coletam e organizam dados: o que as pessoas procuram, de onde vêm, o que as converte. Dados reais para decisões reais.
+**2. Vertical, não generalista**
+Como só atendemos cafeteria, temos templates, copy e estrutura prontos pro setor. O barista não preenche tela em branco — ele edita um site que já entende do negócio dele.
 
-**3. Captura de Leads com Contexto**
-Não coletamos apenas e-mails. Coletamos intenção: qual produto interessa, qual momento da jornada o cliente está, o que o motivou a acessar a página.
+**3. Entrega em 7 dias**
+Wix exige o dono montar. Agência demora 6–10 semanas. Nós entregamos no ar em uma semana — porque o trabalho pesado já foi feito antes do cliente chegar.
 
-**4. Identidade Visual Respeitada**
-Cada café tem sua própria vibe. Nossas landing pages são construídas para refletir isso — não para parecerem todas iguais saídas de um template.
+**4. Pagamento único, sem mensalidade obrigatória**
+Paga uma vez, recebe o site pronto, é dono dele. Não tem boleto recorrente comendo o caixa. Risco do cliente é praticamente zero — e isso é parte explícita do pitch.
 
-**5. Onboarding Humanizado**
-Não largamos o cliente com uma tela em branco. Temos um processo de onboarding que começa com uma conversa sobre o café, sua história e seus objetivos.
+**5. Atendimento humano, não suporte de SaaS**
+Mensagem direta no WhatsApp com gente que entende de café. Sem chatbot, sem ticket, sem aguardar resposta em 48h.
 
 ---
 
 ### Proposta de Valor em uma Frase
 
-> *"Do grão à conversão — landing pages que contam a história do seu café e transformam curiosidade em comunidade."*
+> *"Site profissional pra sua cafeteria por R$ 497, pagamento único. Pronto em 7 dias. Sem agência, sem Wix, sem mensalidade."*
 
 ---
 
-## 8. Mensagem por Persona
+## 8. Modelo de Negócio & Pricing
 
-### Para o Barista Empreendedor (Lucas)
-> "Você já tem o melhor produto. Agora é hora de garantir que as pessoas certas encontrem você — antes mesmo de tomar o primeiro gole."
+### Filosofia de preço
 
-### Para o Dono Estabelecido (Renata)
-> "Você construiu algo real. O Cafo Frame te dá a clareza de entender quem são seus clientes, o que eles querem, e como trazer mais deles para a sua mesa."
+Plano único, **pagamento único de R$ 497**, parcelável. Sem mensalidade. Sem taxa de setup. Esse número é o teto que separa "cabe no caixa de qualquer cafeteria operante" de "decisão grande que precisa de planejamento". Toda decisão de produto respeita essa âncora.
+
+A escolha de plano único (em vez de tiers) é deliberada: simplifica a venda, não exige educação do cliente sobre o que ele "precisa", e mantém o pitch curto.
+
+### Oferta
+
+| Item | Detalhe |
+|---|---|
+| **Preço** | **R$ 497** — pagamento único (Pix ou cartão até 10x) |
+| **Entrega** | 7 dias úteis após receber cardápio e fotos |
+| **Inclui** | Site institucional + cardápio digital + integração WhatsApp + Google Maps + domínio próprio (.com.br) por 12 meses + hospedagem por 12 meses + 3 rodadas de ajuste no design |
+| **Após 12 meses** | Renovação opcional: **R$ 297/ano** (hospedagem + domínio + atualizações ilimitadas de cardápio). Quem não renova fica com o site fora do ar — sem multa, sem amarra. |
+| **Garantia** | 14 dias. Se o site não subir no prazo ou não agradar, devolução integral. |
+
+### O que NÃO fazemos (e isso é estratégia, não limitação)
+
+- Não fazemos e-commerce completo (carrinho/pagamento). Quem precisa disso não é nosso ICP.
+- Não fazemos integração com ERP/PDV. Idem.
+- Não fazemos site multi-unidade nem rede de franquia. (Roadmap fase 2.)
+- Não fazemos app nem PWA customizado.
+- Não fazemos design 100% customizado: trabalhamos com biblioteca de templates verticalizados pra cafeteria. É o que mantém o preço em R$ 497.
+- Não criamos conteúdo de redes sociais. (Outro módulo do Cafo Studio cuidará disso.)
+
+Manter o escopo apertado é o que sustenta o preço baixo.
 
 ---
 
-## 9. Arquitetura de Mensagem GTM
+## 9. Mensagem GTM (Funil)
 
 ### Fase 1 — Consciência
-**Gatilho:** "Minha presença digital não representa o que eu faço"
-**Mensagem:** O Cafo Frame faz sua cafeteria ser encontrada do jeito certo.
+**Gatilho:** *"Meu site no Wix tá feio, mas agência tá fora do orçamento."*
+**Mensagem:** *Existe um meio do caminho — site pronto pra cafeteria por R$ 497, pagos uma vez só.*
 
 ### Fase 2 — Consideração
-**Gatilho:** "Preciso de algo que funcione sem complicar minha vida"
-**Mensagem:** Rápido de montar, fácil de atualizar, feito para quem vive atrás do balcão.
+**Gatilho:** *"Será que entregam mesmo? Tem pegadinha?"*
+**Mensagem:** *Pagamento único, entrega em 7 dias, garantia de 14 dias ou devolvemos o dinheiro.*
 
 ### Fase 3 — Decisão
-**Gatilho:** "Quero resultados, não só um site bonito"
-**Mensagem:** Leads reais. Dados reais. Clientes que voltam. O Cafo Frame entrega os três.
+**Gatilho:** *"Como fica o meu cardápio nesse site?"*
+**Mensagem:** *Manda o cardápio, em 48h te mostramos o protótipo. Se gostar, fecha. Se não, ficou o protótipo.*
 
-### Fase 4 — Fidelização
-**Gatilho:** "Quero entender meu negócio melhor"
-**Mensagem:** Cada acesso, cada clique, cada formulário preenchido vira um insight sobre o seu café.
+### Fase 4 — Retenção
+**Gatilho:** *"E depois de 12 meses?"*
+**Mensagem:** *Renovação opcional de R$ 297/ano com atualizações ilimitadas. Não quer renovar? Sem problema, sem multa.*
 
 ---
 
 ## 10. Identidade Visual (Diretrizes)
 
-### Paleta Conceitual
+### Paleta
 
-| Tom | Hex sugerido | Significado |
+| Tom | Hex | Uso |
 |---|---|---|
-| Café Escuro | `#2C1A0E` | Profundidade, seriedade |
-| Creme | `#F5EDD8` | Acolhimento, artesanal |
-| Cobre/Terracota | `#C4623A` | Energia, calor, ação |
-| Verde Musgo | `#4A6741` | Sustentabilidade, raiz |
-| Off-white | `#FAFAF7` | Limpeza, clareza |
+| Laranja Cafo | `#E8590C` | Primária — CTAs, destaques, preço |
+| Stone Dark | `#1C1917` | Texto principal |
+| Off-white | `#FAFAF9` | Fundos, callouts |
+| Creme | `#F5EDD8` | Acento acolhedor |
+| Verde Musgo | `#4A6741` | Acento secundário (sustentabilidade/raiz) |
 
-### Tipografia Conceitual
-- **Display:** Serifada com personalidade (ex: Playfair Display, Cormorant) — evoca tradição e refinamento
-- **Body:** Sans-serif humanista (ex: Lato, Source Sans) — legibilidade, proximidade
-- **Accent/Labels:** Monospace ou condensada — precisão técnica, dados
+### Tipografia
+- **Display:** Sans-serif moderna (Satoshi, Inter) — clareza acima de refinamento
+- **Body:** Sans-serif humanista — legibilidade
+- **Preço/Números:** sempre em bold e tamanho maior — o preço é argumento, não letra miúda
 
 ### Estética Geral
-Editorial artesanal. Não minimalismo vazio. Não maximalism genérico. A estética de uma revista de café de especialidade encontrando um dashboard moderno: texturas sutis, fotografia autêntica, espaço bem usado, hierarquia clara.
+Honesta e direta. Não premium, não pobre. A estética de uma cafeteria de bairro bem cuidada: sem ostentação, com cuidado nos detalhes que importam, e sem nada sobrando que justifique cobrar mais caro.
 
 ---
