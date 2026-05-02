@@ -69,15 +69,15 @@ When asked to create a playbook, use the following structure as a foundation:
   <!-- The Pitch Section -->
   <h2 style="color: #E8590C; border-bottom: 1px solid #E5E5E5; padding-bottom: 10px;">🎙️ O Pitch (Elevator Pitch)</h2>
   <div style="padding: 15px; font-size: 1.1em; font-style: italic;">
-    "[O discurso principal de vendas, focado no valor que o site da Cafo traz para a cafeteria - mais reservas, integração com delivery, cardápio digital, presença profissional.]"
+    "[Discurso principal — sempre com preço-âncora visível (R$ 497, pagamento único, parcelável 10x R$ 49,70), tempo de entrega (7 dias), e diferencial vs agência (10x mais barato) e Wix (especializado em cafeteria, pronto). O preço é o argumento central, não o subtexto.]"
   </div>
 
   <!-- Discovery Questions -->
   <h2 style="color: #E8590C; border-bottom: 1px solid #E5E5E5; padding-bottom: 10px;">🔍 Perguntas de Descoberta (SPIN/Gap)</h2>
   <ul style="list-style-type: none; padding-left: 0;">
     <li style="margin-bottom: 15px;"><strong>S/P:</strong> "Como os seus clientes encontram o seu cardápio hoje quando não estão na loja?"</li>
-    <li style="margin-bottom: 15px;"><strong>I:</strong> "Quanto de comissão você estima que perde mensalmente para os apps de delivery por não ter um canal próprio forte?"</li>
-    <li style="margin-bottom: 15px;"><strong>N:</strong> "Se você tivesse um site que não só mostrasse sua marca, mas também recebesse pedidos diretos sem taxas, qual seria o impacto no final do mês?"</li>
+    <li style="margin-bottom: 15px;"><strong>I:</strong> "Como a falta de um site próprio afeta a credibilidade da sua cafeteria perante novos clientes?"</li>
+    <li style="margin-bottom: 15px;"><strong>N:</strong> "Se você tivesse um site que não só mostrasse sua marca, mas também transmitisse o verdadeiro valor e ambiente do seu espaço, qual seria o impacto nas visitas?"</li>
   </ul>
 
   <!-- Objection Handling -->
@@ -95,7 +95,7 @@ When asked to create a playbook, use the following structure as a foundation:
       <tr style="border-bottom: 1px solid #E5E5E5;">
         <td style="padding: 12px;">"Já tenho Instagram, não preciso de site."</td>
         <td style="padding: 12px;">Falta percepção de valor na conversão própria.</td>
-        <td style="padding: 12px;">"O Instagram é ótimo para atrair, mas o site é onde você converte. Sem depender do algoritmo, você controla a experiência de pedido e não divide o lucro."</td>
+        <td style="padding: 12px;">"O Instagram é ótimo para atrair, mas o site é onde você consolida a marca. Sem depender do algoritmo, você controla a experiência do cliente e transmite profissionalismo."</td>
       </tr>
       <tr style="border-bottom: 1px solid #E5E5E5;">
         <td style="padding: 12px;">"Fazer um site é muito caro e demorado."</td>
@@ -109,7 +109,7 @@ When asked to create a playbook, use the following structure as a foundation:
   <div style="background-color: #FFF7ED; padding: 20px; border-radius: 8px; border: 1px solid #FED7AA;">
     <h3 style="margin-top: 0; color: #C2410C;">⏭️ Próximos Passos (Fechamento)</h3>
     <p>Objetivo da ligação: <strong>[Agendar Demo / Fechar Contrato Piloto]</strong></p>
-    <p><em>"Baseado no que você me disse sobre a perda de margem no delivery, faz sentido agendarmos 15 minutos amanhã para eu te mostrar como a cafeteria [Nome de Exemplo] resolveu isso com a nossa plataforma?"</em></p>
+    <p><em>"Baseado no que você me disse sobre a necessidade de profissionalizar a presença digital, faz sentido agendarmos 15 minutos amanhã para eu te mostrar como a cafeteria [Nome de Exemplo] resolveu isso com a nossa plataforma?"</em></p>
   </div>
 
 </div>
@@ -123,7 +123,7 @@ Every time you generate a playbook, you must append an entry to the `Commercial_
 ### Log Date: [YYYY-MM-DD]
 * **Playbook Generated:** [File Name]
 * **Target Audience:** [Persona]
-* **Business Context:** [Trigger event or scenario, e.g., "Cold Outreach to High-Volume Coffee Shops without dedicated ordering platforms."]
+* **Business Context:** [Trigger event or scenario, e.g., "Cold Outreach to High-Volume Coffee Shops needing a professional website presence."]
 * **Key Objections Covered:** [List 2-3 main objections addressed]
 * **Next Action/Trigger:** [When should a human or agent consult this playbook again?]
 ```

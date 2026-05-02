@@ -17,7 +17,7 @@
   <!-- The Pitch Section -->
   <h2 style="color: #E8590C; border-bottom: 1px solid #E5E5E5; padding-bottom: 10px;">🎙️ O Pitch (Elevator Pitch)</h2>
   <div style="padding: 15px; font-size: 1.1em; font-style: italic; background-color: #fff; border: 1px dashed #ccc; border-radius: 4px; margin-bottom: 20px;">
-    "Gerenciar a experiência digital de uma rede de cafeterias costuma ser um caos de sistemas desconectados e dados perdidos. A Cafo unifica a presença digital da [Nome da Rede] em um único site e sistema robusto. Nós garantimos padronização de marca e gestão centralizada de cardápios, permitindo que o cliente peça de forma simples na unidade mais próxima, enquanto você captura todos os dados de consumo no nível da rede."
+    "Gerenciar a experiência digital de uma rede de cafeterias costuma ser um caos de sistemas desconectados e dados perdidos. A Cafo unifica a presença digital da [Nome da Rede] em um único site e sistema robusto. Nós garantimos padronização de marca e gestão centralizada de cardápios, permitindo que o cliente acesse o menu de forma simples na unidade mais próxima, enquanto você captura todos os dados de acesso no nível da rede."
   </div>
 
   <!-- Discovery Questions -->
@@ -29,7 +29,7 @@
     </li>
     <li style="margin-bottom: 15px; padding-left: 20px; position: relative;">
       <span style="position: absolute; left: 0; top: 0; color: #E8590C;"><strong>P:</strong></span>
-      "Como vocês garantem que a experiência da marca (visual, tempo de resposta, facilidade de pedido) seja exatamente a mesma para o cliente da unidade A e da unidade B?"
+      "Como vocês garantem que a experiência da marca (visual, tempo de resposta, clareza do cardápio digital) seja exatamente a mesma para o cliente da unidade A e da unidade B?"
     </li>
     <li style="margin-bottom: 15px; padding-left: 20px; position: relative;">
       <span style="position: absolute; left: 0; top: 0; color: #E8590C;"><strong>I:</strong></span>
@@ -56,7 +56,7 @@
       <tr style="border-bottom: 1px solid #E5E5E5;">
         <td style="padding: 12px; vertical-align: top;">"Nossos franqueados têm autonomia para gerir seus próprios canais/Instagram."</td>
         <td style="padding: 12px; vertical-align: top;">Medo de atrito político com os franqueados; percepção de que centralização = lentidão.</td>
-        <td style="padding: 12px; vertical-align: top;">"Autonomia local é ótima, mas diluição da marca custa caro. A Cafo permite que a matriz controle o padrão de design e o core do cardápio, enquanto os franqueados mantêm autonomia operacional (aceitar pedidos, gerir estoque local). O franqueado ganha eficiência, a matriz ganha o dado."</td>
+        <td style="padding: 12px; vertical-align: top;">"Autonomia local é ótima, mas diluição da marca custa caro. A Cafo permite que a matriz controle o padrão de design e o core do cardápio, enquanto os franqueados mantêm autonomia operacional (atualizar itens locais, gerir campanhas específicas). O franqueado ganha eficiência, a matriz ganha o dado."</td>
       </tr>
       <tr style="border-bottom: 1px solid #E5E5E5;">
         <td style="padding: 12px; vertical-align: top;">"Nós já temos um sistema ERP de PDV em todas as lojas."</td>
